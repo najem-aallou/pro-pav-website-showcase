@@ -89,8 +89,6 @@ Example:
 https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 -->
 
-**▶️ Website demo:**  
-PASTE_YOUR_EXISTING_GITHUB_VIDEO_ATTACHMENT_LINK_HERE
 
 ---
 
