@@ -36,9 +36,6 @@ The objective of this project was to design and develop a modern and responsive 
 
 ![PRO-PAV Full Page](screenshots/desktop-full-page.jpeg)
 
-### Mobile
-
-![PRO-PAV Mobile](screenshots/mobile-home.jpeg)
 
 ## Video Demonstration
 
