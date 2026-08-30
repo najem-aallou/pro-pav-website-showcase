@@ -30,15 +30,15 @@ The objective of this project was to design and develop a modern and responsive 
 
 ### Desktop
 
-![PRO-PAV Desktop](screenshots/desktop-home.jpg)
+![PRO-PAV Desktop](screenshots/desktop-home.jpeg)
 
 ### Full Website
 
-![PRO-PAV Full Page](screenshots/desktop-full-page.jpg)
+![PRO-PAV Full Page](screenshots/desktop-full-page.jpeg)
 
 ### Mobile
 
-![PRO-PAV Mobile](screenshots/mobile-home.jpg)
+![PRO-PAV Mobile](screenshots/mobile-home.jpeg)
 
 ## Video Demonstration
 
