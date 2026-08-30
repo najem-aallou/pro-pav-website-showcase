@@ -39,9 +39,12 @@ The objective of this project was to design and develop a modern and responsive 
 
 ## Video Demonstration
 
-A demonstration video of the website is available here:
+Below is a demonstration of the responsive website and its main sections.
 
-[▶ Watch the website demo](demo/pro-pav-demo.mp4)
+
+https://github.com/user-attachments/assets/4d0848a2-07d8-4e27-8a35-f429b0527edb
+
+
 
 ## My Contribution
 
